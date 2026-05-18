@@ -1,5 +1,5 @@
 game_state.jsonl
-game_event.jsonl
+game_events.jsonl
 
 # Python-generated files
 __pycache__/
